@@ -732,6 +732,7 @@
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+- [Account abstraction](https://github.com/4337Mafia/awesome-account-abstraction) -  A new paradigm to allow for a more user-friendly experience when interacting with EVM applications.
 
 ## Health and Social Science
 
